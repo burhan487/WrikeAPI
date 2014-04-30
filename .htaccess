@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "protected area"
+AuthUserFile /home/149580/.htpasswd
+AuthGroupFile /home/149580/.htgroup
+Require user dan protected
